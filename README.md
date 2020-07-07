@@ -3,6 +3,8 @@
 This is a small Python application that converts MIDI messages into computer
 keystrokes. It's completely pointless but fun!
 
+It uses two libraries: `mido` for reading MIDI messages, and `keyboard` for performing the keystrokes.
+
 Here's a video I made demonstrating it in action: https://www.youtube.com/watch?v=4rbp83fJTkg
 
 I've only tested that this works on Windows.
